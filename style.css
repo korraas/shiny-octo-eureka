@@ -1,0 +1,25 @@
+
+.character-card {
+    background-color: #bdf3d4;
+    border-radius: 51px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    padding: 150px;
+    width: 800px;
+    margin: 200px;
+  }
+  
+  .character-name {
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .character-description {
+    font-size: 25px;
+    margin-bottom: 15px;
+  }
+  
+  .character-details li {font-size: 30px;
+    margin-bottom: 10px;
+  }
+  
+  
