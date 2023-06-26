@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Block Tags Example</title>
+</head>
+<body>
+  <p><i><b>Привет, мир!</b></i></p>
+  <div><u>Привет, мир!</u></div>
+  <div><h2>Привет, мир!</h2></div>
+  <footer><sup>Привет, мир!</sup><small>Привет, мир!</small></footer>
+</body>
+</html>
