@@ -1,6 +1,5 @@
-
 .character-card {
-    background-color: #bdf3d4;
+    background-color: #e7914bbb;
     border-radius: 51px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     padding: 150px;
@@ -11,15 +10,18 @@
   .character-name {
     font-size: 50px;
     margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   .character-description {
     font-size: 25px;
     margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
   .character-details li {font-size: 30px;
     margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
   
