@@ -1,0 +1,23 @@
+
+.animated-button {
+    background-color: white;
+    transition: background-color 0.5s;
+  }
+  
+  .animated-button:hover {
+    animation: colorChange 1.5s ease-in-out 3;
+  }
+  
+  @keyframes colorChange {
+    0% {
+      background-color: white;
+    }
+    50% {
+      background-color: green;
+    }
+    100% {
+      background-color: white;
+    }
+  }
+  
+  
