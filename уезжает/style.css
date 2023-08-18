@@ -1,0 +1,19 @@
+
+.image-container {
+    position: relative;
+  }
+  
+  .clickable {
+    cursor: pointer;
+    transition: top 0.5s;
+  }
+  
+  .first-image-up {
+    top: -100px;
+  }
+  
+  .second-image-down {
+    top: 100px;
+  }
+  
+  
